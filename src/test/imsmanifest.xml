@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_6JiEzE9uGQs_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">ADDICTION PSYCHOLOGY EXAMINATION</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="ADDICTION_PSYCHOLOGY_EXAMINATION_ORG">
+    <organization identifier="ADDICTION_PSYCHOLOGY_EXAMINATION_ORG">
+      <title>ADDICTION PSYCHOLOGY EXAMINATION</title>
+      <item identifier="ADDICTION_PSYCHOLOGY_EXAMINATION_SCO" isvisible="true" identifierref="__6JiEzE9uGQs_course_id_RES">
+        <title>ADDICTION PSYCHOLOGY EXAMINATION</title>
+        <adlcp:masteryscore>40</adlcp:masteryscore>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__6JiEzE9uGQs_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="story_content/5XUpqLp19LR_96_DX302_DY302.swf" />
+      <file href="mobile/5XUpqLp19LR_96_DX302_DY302_CX151_CY77.png" />
+      <file href="story_content/6rlK00chHtD_96_DX536_DY536.swf" />
+      <file href="mobile/6rlK00chHtD_96_DX536_DY536_CX268_CY180.png" />
+      <file href="meta.xml" />
+      <file href="story_content/frame.xml" />
+      <file href="story_content/frame.js" />
+      <file href="story_content/user.js" />
+      <file href="story_html5.html" />
+      <file href="story_unsupported.html" />
+      <file href="mobile/Slide6FDOTfde714.jpg" />
+      <file href="mobile/Slide683Tt89DfLv.jpg" />
+      <file href="mobile/Slide6Bwmy8bDLoJ.jpg" />
+      <file href="mobile/Slide61qCEpWB2PI.jpg" />
+      <file href="mobile/Slide5Y45cgW0LNu.jpg" />
+      <file href="mobile/Slide68C0iDSdDp3.jpg" />
+      <file href="mobile/Slide67gR3gIgF9y.jpg" />
+      <file href="mobile/Slide5aCymqhnmBC.jpg" />
+      <file href="mobile/Slide5UqgKGqsIcc.jpg" />
+      <file href="mobile/Slide6dzWRpLerhS.jpg" />
+      <file href="mobile/Slide5zVea9B0lmg.jpg" />
+      <file href="mobile/Slide6MQd68LiSWY.jpg" />
+      <file href="mobile/Slide6elWuLaHBrj.jpg" />
+      <file href="mobile/Slide6coWxUotvmA.jpg" />
+      <file href="mobile/Slide5pjWgkgKC0r.jpg" />
+      <file href="mobile/Slide6M3W3uIqElV.jpg" />
+      <file href="mobile/Slide6g9A4tflTZK.jpg" />
+      <file href="mobile/Slide5pka1Sw3maD.jpg" />
+      <file href="mobile/Slide6qgFu7PC08I.jpg" />
+      <file href="mobile/Slide5XFS5wwUfsb.jpg" />
+      <file href="mobile/Slide6MtmLXwSPDS.jpg" />
+      <file href="mobile/Slide5Wpv8KuB7Bm.jpg" />
+      <file href="mobile/Slide5ne5OUFomCL.jpg" />
+      <file href="mobile/Slide5yR1xHW3hYU.jpg" />
+      <file href="mobile/Slide6Jw9fvZ1fqz.jpg" />
+      <file href="mobile/Slide6BpENGMdpaf.jpg" />
+      <file href="mobile/Slide6dAa6RNzTHD.jpg" />
+      <file href="mobile/Slide5WPBfBPBA2w.jpg" />
+      <file href="mobile/Slide5YiGJwVFOgB.jpg" />
+      <file href="mobile/Slide5zd5XrcJeQ3.jpg" />
+      <file href="mobile/Slide61TWyoF2upk.jpg" />
+      <file href="mobile/Slide6YFn0itZ8SC.jpg" />
+      <file href="mobile/Slide6GlcUr9Ml4o.jpg" />
+      <file href="mobile/Slide69SlupJyf6K.jpg" />
+      <file href="mobile/Slide5zrfTsHDzel.jpg" />
+      <file href="mobile/Slide5tgyEwVEIjW.jpg" />
+      <file href="mobile/Slide5xZDF4Vo3MP.jpg" />
+      <file href="mobile/Slide5cQxyLwFmSW.jpg" />
+      <file href="mobile/Slide6Esx7yOrAeq.jpg" />
+      <file href="mobile/Slide60VporizF5v.jpg" />
+      <file href="mobile/Slide5aboOS9ua55.jpg" />
+      <file href="mobile/Slide5oCOc5MeXjJ.jpg" />
+      <file href="mobile/Slide6JrZq6yO5Gs.jpg" />
+      <file href="mobile/Slide5tPGzkBEfVP.jpg" />
+      <file href="mobile/Slide6HwunYbd0eK.jpg" />
+      <file href="mobile/Slide6BLyPu4Byr9.jpg" />
+      <file href="mobile/Slide6oHkC6rb1cm.jpg" />
+      <file href="mobile/Slide6SgOwURbYs0.jpg" />
+      <file href="mobile/Slide5kuye3B8cse.jpg" />
+      <file href="mobile/Slide6q57tyI1YVM.jpg" />
+      <file href="mobile/Slide6VYs6V673Tr.jpg" />
+      <file href="mobile/Slide6AqBCcIiDAu.jpg" />
+      <file href="mobile/app_store.png" />
+      <file href="mobile/controls.png" />
+      <file href="mobile/icon_loading.gif" />
+      <file href="mobile/linen_background.jpg" />
+      <file href="mobile/mobile_icon.png" />
+      <file href="mobile/player.css" />
+      <file href="mobile/spinner.png" />
+      <file href="mobile/storyline_compiled.js" />
+      <file href="mobile/wait.gif" />
+      <file href="story_content/fonts.swf" />
+      <file href="mobile/fonts.js" />
+      <file href="story.swf" />
+      <file href="story_content/frame.swf" />
+      <file href="story_content/data.swf" />
+      <file href="mobile/data.js" />
+      <file href="mobile/masks.js" />
+      <file href="story.html" />
+      <file href="index_lms_html5.html" />
+      <file href="story_content/blank.html" />
+      <file href="story_content/story.js" />
+      <file href="story_content/zoom.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/AICCFunctions.js" />
+      <file href="lms/API.js" />
+      <file href="lms/APIConstants.js" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/Configuration.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/lms.js" />
+      <file href="lms/LMSAPI.js" />
+      <file href="lms/NONEFunctions.js" />
+      <file href="lms/SCORM2004Functions.js" />
+      <file href="lms/SCORMFunctions.js" />
+      <file href="lms/UtilityFunctions.js" />
+    </resource>
+  </resources>
+</manifest>
