@@ -51,7 +51,7 @@ export default function CameraView({ handleShowTest }) {
                   mt: "auto",
                 }}
               >
-                <Container maxWidth="sm">
+                {/* <Container maxWidth="sm">
                   <Button
                     variant="contained"
                     color="success"
@@ -59,7 +59,7 @@ export default function CameraView({ handleShowTest }) {
                   >
                     Take Test
                   </Button>
-                </Container>
+                </Container> */}
               </Box>
             </Box>
           </Box>
